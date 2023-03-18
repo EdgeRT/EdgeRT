@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate<br>🤝 I’m looking for help with senior<br>🌱 I’m currently learning CSS<br>💬 Ask me about anything<br>⚡ Fun fact Iam lazy but smart
+🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate<br>🤝 I am a BCA cybersecurity student<br>🌱 I’m currently learning CSS<br>💬 Ask me about anything<br>⚡ Fun fact Iam lazy but smart
 
 
 ## 🌐 Socials:
